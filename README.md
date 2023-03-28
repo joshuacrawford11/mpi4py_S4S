@@ -1,6 +1,6 @@
 # mpi4py_S4S
 
-Hi, welcome to GitHub page for the S4S on mpi4py. Before running any of the example programs, you'll want to make sure you install the mpi4py module.
+Hi, welcome to GitHub page for the S4S on mpi4py. Before running any of the example programs, you'll want to make sure you install the mpi4py module in your Python environment.
 
 Here's the link to the installation instructions:
 https://mpi4py.readthedocs.io/en/stable/install.html
